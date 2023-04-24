@@ -1,6 +1,6 @@
 # lualine-osv
 
-[OSV](https://github.com/jbyuki/one-small-step-for-vimkind) extension for [lualine.nvim](https://github.com/nvim-lualine/lualine.nvim)
+[one-small-step-for-vimkind](https://github.com/jbyuki/one-small-step-for-vimkind) extension for [lualine.nvim](https://github.com/nvim-lualine/lualine.nvim)
 
 ## Screenshot
 
@@ -32,4 +32,4 @@ require'lualine'.setup {
 
 ## Thanks
 
--- https://github.com/archibate/lualine-time
+[archibate](https://github.com/archibate/lualine-time)
